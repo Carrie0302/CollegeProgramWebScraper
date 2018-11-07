@@ -1,5 +1,4 @@
 ﻿Project: Automated Web Scraping College Apprenticeship and Occupation Data
-Written by Carrie Schaden
 Jan, 2018
 
 ## Project Background
